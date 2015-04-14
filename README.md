@@ -4,6 +4,8 @@ Thanks for all the interest in my talk - I will fix up the issues in this repo s
 
 ## Interactive data for the web - Bokeh for web developers
 
+https://www.youtube.com/watch?v=O5OvOLK-xqQ
+
 [https://us.pycon.org/2015/schedule/presentation/369/](https://us.pycon.org/2015/schedule/presentation/369/)
 
 ### Description
